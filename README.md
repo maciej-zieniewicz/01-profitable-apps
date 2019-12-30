@@ -8,3 +8,6 @@ We only build apps that are free to download and install, and our main source of
 
 ## Main goal:
 Main goal for this project is to analyze data to help our developers understand what type of apps are likely to attract more users.
+
+## Tech Stack:
+- Python (without dedicated libraries)
